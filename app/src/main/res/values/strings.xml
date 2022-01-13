@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Convidados</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="btnLista">Ver lista</string>
+</resources>
